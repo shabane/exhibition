@@ -1,6 +1,6 @@
-# each movie has some wonderful scene, we put shot of them here
+# exhibition
 
-[visit our site](https://shabane.github.io/exhibition/)
+*each movie has some wonderful scene, we put some shot of them here* [visit the site](https://shabane.github.io/exhibition/) *to see it*
 
 ### Description 
 
