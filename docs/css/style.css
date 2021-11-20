@@ -13,3 +13,24 @@
     display: inline-block;
     margin-left: 3%;
 }
+.callout-success {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #5cb85c;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+.callout-info {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #3498DB;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+.callout-warn {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #F1C40F;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
